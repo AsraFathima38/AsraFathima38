@@ -63,6 +63,7 @@ An AI-based face recognition project focused on identifying registered individua
 
 ---
 
+
 ### 🌷 My Philosophy
 
 *Learn with curiosity. Build with purpose. Grow with consistency.*
@@ -70,4 +71,18 @@ An AI-based face recognition project focused on identifying registered individua
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+
+---
+
+### 🤝 Let's Connect
+
+💼 **LinkedIn:** https://www.linkedin.com/in/asra-fathima-444b29317
+
+📧 **Email:** asrafathima38@gmail.com
+
+💻 **GitHub:** [@AsraFathima38](https://github.com/AsraFathima38)
+
+✨ *Open to learning, collaborating, and exploring AI/ML opportunities!*
+
+
 

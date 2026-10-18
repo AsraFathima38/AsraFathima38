@@ -1,23 +1,22 @@
-<!-- 🌸 ASRA FATHIMA | GITHUB PROFILE README 🌸 -->
+ <div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFB7D5,35:C8A2FF,70:8EA7FF,100:80D8FF&text=ASRA%20FATHIMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20CS%20Undergraduate&descSize=17&descAlignY=59&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFB7D5,35:C8A2FF,70:8EA7FF,100:80D8FF&text=ASRA%20FATHIMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20CS%20Undergraduate&descSize=17&descAlignY=59&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=B57EDC&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+projects+with+Python+%F0%9F%90%8D;Learning.+Creating.+Growing.+%E2%9C%A8" />
 
 <br/>
 
 <a href="https://github.com/AsraFathima38">
-<img src="https://img.shields.io/badge/💜%20Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/asra-fathima-444b29317
+">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-🌷 **Computer Science Undergraduate** &nbsp; • &nbsp; 🇮🇳 **India** &nbsp; • &nbsp; 🎓 **Class of 2027**
+🎓 Computer Science Undergraduate &nbsp; • &nbsp; 🇮🇳 India &nbsp; • &nbsp; 🌸 Class of 2027
 
 </div>
 
@@ -25,75 +24,103 @@
 
 <div align="center">
 
-## 💗 A LITTLE ABOUT ME
+## 💗 ABOUT ME
 
 *Curiosity drives me. Creativity inspires me. Code helps me build.*
 
 </div>
 
-- 🤖 Interested in **Artificial Intelligence and Machine Learning**
+- 🤖 Passionate about **Artificial Intelligence and Machine Learning**
 - 💻 Exploring software development and problem-solving
-- 🧠 Learning to turn ideas into useful, practical projects
-- 🌱 Improving my skills through hands-on development
-- 🎯 Working towards opportunities in AI/ML and software engineering
+- 🧠 Interested in turning ideas into useful, practical projects
+- 🌱 Continuously learning through hands-on development
+- 🎯 Aspiring to contribute to innovative AI/ML and software engineering projects
 
 ---
 
 <div align="center">
 
-## 🎨 MY TECH TOOLKIT
+## 💜 MY TECH UNIVERSE
 
-*Tools I'm learning and using along my development journey*
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light" />
-
-</td>
-<td align="center" width="50%">
-
-### 🤖 AI & Data
-
-<img src="https://skillicons.dev/icons?i=sklearn&theme=light" />
+*The tools I use to turn ideas into reality* ✨
 
 <br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/💻_01-PROGRAMMING%20LANGUAGES-C8A2FF?style=for-the-badge&labelColor=7C3AED" />
 
-</td>
-</tr>
-<tr>
-<td align="center">
+<br/><br/>
 
-### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light" />
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=light" />
+<br/><br/>
 
-</td>
-<td align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 
-### 🛠️ Developer Tools
+<br/><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+<img src="https://img.shields.io/badge/🤖_02-AI%20%26%20DATA%20SCIENCE-91C9FF?style=for-the-badge&labelColor=2563EB" />
 
-</td>
-</tr>
-</table>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<br/><br/><br/>
+
+<img src="https://img.shields.io/badge/🌐_03-WEB%20DEVELOPMENT-FFB7D5?style=for-the-badge&labelColor=DB2777" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=light" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+
+<br/><br/><br/>
+
+<img src="https://img.shields.io/badge/🛠️_04-DEVELOPMENT%20TOOLS-B6E3C4?style=for-the-badge&labelColor=15803D" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=light" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+<br/><br/><br/>
+
+<img src="https://img.shields.io/badge/🌱_05-ALWAYS%20LEARNING-F6D58E?style=for-the-badge&labelColor=B45309" />
+
+<br/><br/>
+
+**💜 Curious mind. Creative ideas. Continuous growth. 💜**
+
+*Building my skills one project at a time.*
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🚀 PROJECTS I'M PROUD OF
+## 🚀 FEATURED PROJECTS
 
-*Small steps, meaningful ideas, continuous growth.*
+*Ideas brought to life through code* ✨
 
 </div>
 
@@ -109,18 +136,20 @@
 
 </div>
 
-A career recommendation project that helps users explore suitable roles based on their skills and career goals.
+A career recommendation project designed to help users explore suitable roles based on their skills and career goals.
 
-**✨ Highlights**
+**✨ Key features**
 - 🎯 Career-fit scoring
 - 🧩 Skill matching
-- 📊 Data-driven recommendations
+- 📊 Data-driven role suggestions
 
-**🔧 Stack:** Python · Pandas · Scikit-learn · Streamlit
+**🧰 Technologies:** Python · Pandas · Scikit-learn · Streamlit
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsraFathima38/CareerPilot-AI)
+<a href="https://github.com/AsraFathima38/CareerPilot-AI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -133,18 +162,22 @@ A career recommendation project that helps users explore suitable roles based on
 
 <img src="https://img.shields.io/badge/Computer%20Vision-AI%20Project-91C9FF?style=for-the-badge" />
 
-A face recognition project exploring registered-user identification and attendance management.
+</div>
 
-**✨ Focus areas**
+An AI-based face recognition project focused on identifying registered users and supporting attendance management.
+
+**✨ Key areas**
 - 📷 Face detection and recognition
 - 🧑 Registered-user identification
 - 📝 Attendance workflow
 
-**🔧 Stack:** Python · OpenCV · Face Recognition
+**🧰 Technologies:** Python · OpenCV · Face Recognition
 
 <div align="center">
 
-[![Explore GitHub](https://img.shields.io/badge/EXPLORE%20GITHUB-3984F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsraFathima38)
+<a href="https://github.com/AsraFathima38">
+<img src="https://img.shields.io/badge/MY%20GITHUB-3984F5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -156,14 +189,15 @@ A face recognition project exploring registered-user identification and attendan
 
 <div align="center">
 
-## 📈 MY GITHUB ACTIVITY
+## 📊 MY GITHUB UNIVERSE
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsraFathima38&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsraFathima38&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AsraFathima38&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsraFathima38&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=AsraFathima38&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AsraFathima38&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
@@ -171,36 +205,40 @@ A face recognition project exploring registered-user identification and attendan
 
 <div align="center">
 
-## 🌈 MY LEARNING JOURNEY
+## 🌈 CURRENTLY GROWING
 
-<img src="https://img.shields.io/badge/Currently%20Exploring-AI%20%26%20ML-C8A2FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Practicing-Python%20%26%20DS-9BB8FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-C8A2FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Practicing-Python%20%26%20Data%20Science-91C9FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Building-Real%20Projects-FFB7D5?style=for-the-badge" />
 
 <br/><br/>
 
-*Every project is a new opportunity to learn something better.*
+*Learning today. Building tomorrow. Growing every day.* 🌷
+
+</div>
 
 ---
 
-## 💌 LET'S CONNECT!
+<div align="center">
 
-💗 Open to learning, collaborating, and exploring internship opportunities.
+## 💌 LET'S CONNECT
 
-<a href="https://www.linkedin.com/in/asra-fathima-444b29317
-">
+💜 Open to learning, collaboration, and internship opportunities.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/asra-fathima-444b29317">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto: asrafathima38@gmail.com">
+
+<a href="mailto:asrafathima38@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 🌸 *Think boldly. Build thoughtfully. Keep growing.* 🌸
+### 🌸 Think boldly. Build thoughtfully. Keep growing. 🌸
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:80D8FF,35:8EA7FF,70:C8A2FF,100:FFB7D5&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:80D8FF,35:8EA7FF,70:C8A2FF,100:FFB7D5&section=footer" width="100%" />
 
 </div>
-
-<!-- Made with 💜 by Asra Fathima -->

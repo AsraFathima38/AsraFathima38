@@ -15,7 +15,7 @@ I'm continuously strengthening my programming, data structures, algorithms, and 
 - 🎓 Computer Science undergraduate graduating in 2027
 - 💻 Interested in Software Engineering and application development
 - 🤖 Passionate about Artificial Intelligence and Machine Learning
-- 🐍 Exploring Python, Java, and data science
+- 🧑‍💻 Exploring C, C++, Python, and Java
 - 🧠 Strengthening my problem-solving and algorithmic thinking
 - 🚀 Learning by building practical projects
 - 🌱 Always curious about new technologies and opportunities to grow
@@ -26,9 +26,10 @@ I'm continuously strengthening my programming, data structures, algorithms, and 
 
 ### 💻 Programming Languages
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Development
 
@@ -65,12 +66,6 @@ An AI-based face recognition project focused on identifying registered individua
 
 **Focus:** Computer vision, face recognition, and attendance automation.
 
-### 🔹 Skill-Based Micro Internship Platform
-
-A platform concept designed to connect learners with short-term opportunities based on their skills and interests.
-
-**Focus:** Skill-based matching and career development.
-
 *Explore my repositories for source code, implementation details, and project updates.*
 
 ---
@@ -88,7 +83,7 @@ A platform concept designed to connect learners with short-term opportunities ba
 ## 🌱 Currently Growing
 
 - Improving Data Structures and Algorithms
-- Strengthening Java and Python programming
+- Strengthening C, C++, Java, and Python programming
 - Exploring AI/ML concepts and practical applications
 - Building software projects and improving code quality
 - Preparing for Software Engineering and AI/ML internship opportunities
@@ -97,9 +92,9 @@ A platform concept designed to connect learners with short-term opportunities ba
 
 ## 🤝 Let's Connect!
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** https://www.linkedin.com/in/asra-fathima-444b29317
 
-📧 **Email:** YOUR_EMAIL_ADDRESS
+📧 **Email:** asrafathima38@gmail.com
 
 💻 **GitHub:** [@AsraFathima38](https://github.com/AsraFathima38)
 
@@ -112,4 +107,3 @@ A platform concept designed to connect learners with short-term opportunities ba
 *Learn with curiosity. Build with purpose. Grow with consistency.*
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
-
